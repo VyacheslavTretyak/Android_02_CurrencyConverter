@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Android_02_CurrencyConverter</string>
+    <string name="app_name">Currency Converter</string>
+    <string name="title_main">Currency Converter</string>
+    <string name="from_curency">From Currency</string>
+    <string name="to_curency">To Currency</string>
+    <string name="value">Value</string>
+    <string name="result">Result</string>
 </resources>
